@@ -37,5 +37,8 @@ If you want to contribute, please read the [guide](https://github.com/Navideck-f
 * [FluidUI](https://www.fluidui.com)
 * [Proto.io](http://proto.io)
 
+### Customer Support
+* [Kommunicate](https://www.kommunicate.io) - A Human + Bot hybrid customer support platform. Chat SDKs available in android, iOS, cordova and web apps.
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
