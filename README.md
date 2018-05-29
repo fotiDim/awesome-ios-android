@@ -38,7 +38,7 @@ If you want to contribute, please read the [guide](https://github.com/Navideck-f
 * [Proto.io](http://proto.io)
 
 ### Chat Service
-* [Applozic](https://www.applozic.com)
+* [Applozic](https://www.applozic.com) - Applozic provides Chat and In App Messaging SDKs that lets you add chat into your mobile apps quickly.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
