@@ -37,5 +37,8 @@ If you want to contribute, please read the [guide](https://github.com/Navideck-f
 * [FluidUI](https://www.fluidui.com)
 * [Proto.io](http://proto.io)
 
+### Chat Service
+* [Applozic](https://www.applozic.com)
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
