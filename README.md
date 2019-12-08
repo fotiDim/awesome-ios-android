@@ -40,5 +40,8 @@ If you want to contribute, please read the [guide](https://github.com/Navideck-f
 ### Customer Support
 * [Kommunicate](https://www.kommunicate.io) - A Human + Bot hybrid customer support platform. Chat SDKs available in android, iOS, cordova and web apps.
 
+### Chat
+* [Applozic](https://www.applozic.com) - Applozic provides Chat and In App Messaging SDKs that lets you add chat into your mobile apps quickly.
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
